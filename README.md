@@ -1,4 +1,4 @@
-## Project Overview
+# Project Overview
 
 1. **Traffic**
    - **Description**: Develops a neural network to classify traffic signs from images.
