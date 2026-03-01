@@ -1,7 +1,3 @@
-# CS50 AI Course Projects
-
-This repository contains assignments completed as part of the Harvard CS50 Artificial Intelligence course. Each project focuses on different AI concepts, algorithms, and practical implementations.
-
 ## Project Overview
 
 1. **Traffic**
